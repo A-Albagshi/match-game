@@ -1,0 +1,9 @@
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
