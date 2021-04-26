@@ -7,3 +7,4 @@ C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.Gene
 C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
 C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.exe
 C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
+C:\Users\a-22_\RiderProjects\MatchGame\MatchGame\obj\Debug\MatchGame.Form1.resources
